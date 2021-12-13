@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1639358402 source:c:\users\pc\onedrive\documents\soumaya\projects\fiche_de_paie\employer.c
+	<stdio.h>
+	"employer.h"
+	<string.h>
+
+1639358326 c:\users\pc\onedrive\documents\soumaya\projects\fiche_de_paie\employer.h
+
+1639358365 source:c:\users\pc\onedrive\documents\soumaya\projects\fiche_de_paie\fiche.c
+	<stdio.h>
+	"fiche.h"
+	"employer.h"
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1639358264 c:\users\pc\onedrive\documents\soumaya\projects\fiche_de_paie\fiche.h
+	"employer.h"
+
+1639358162 source:c:\users\pc\onedrive\documents\soumaya\projects\fiche_de_paie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fiche.h"
+	"employer.h"
+	<windows.h>
+	<ctype.h>
+
